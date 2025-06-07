@@ -1,0 +1,7 @@
+﻿l_english: 
+ trait_lifestyle_polyglot:0 "Polyglot"
+ trait_lifestyle_polyglot_desc:0 "This character demonstrates an extraordinary talent for languages, effortlessly mastering multiple tongues with fluency and precision. Their linguistic prowess opens doors to diverse cultures, facilitates diplomacy, and enables effective communication across borders."
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip], a polyglot of remarkable prowess, effortlessly commands a multitude of languages with fluency and precision. His linguistic talents transcend borders, granting him the ability to seamlessly navigate diverse cultures and communicate effectively across a myriad of tongues. "
+
+ trait_track_lifestyle_polyglot:0 "Linguistic Proficiency"
+ trait_track_lifestyle_polyglot_desc:0 "This character possesses an unparalleled proficiency in linguistics, mastering a multitude of languages with remarkable ease."

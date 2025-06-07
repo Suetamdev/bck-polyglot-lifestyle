@@ -1,0 +1,39 @@
+﻿lifestyle_polyglot = {
+    icon = polyglot.dds
+    category = lifestyle
+    ruler_designer_cost = 20
+    opinion_of_different_culture = 5
+
+    desc = {
+        first_valid = {
+            triggered_desc = {
+                trigger = {
+                    NOT = { exists = this }
+                }
+                desc = trait_lifestyle_polyglot_desc
+            }
+            desc = trait_lifestyle_polyglot_character_desc
+        }
+    }
+
+    track = {
+        33 = {
+            learning = 1
+            owned_personal_scheme_success_chance_max_add = 3
+            opinion_of_different_culture = 5
+        }
+        66 = {
+            diplomacy = 1
+            owned_personal_scheme_success_chance_max_add = 4
+            opinion_of_different_culture = 5
+        }
+        100 = {
+            learning = 2
+            diplomacy = 1
+            owned_personal_scheme_success_chance_max_add = 8
+            max_learn_language_schemes_add = 3
+            opinion_of_different_culture = 15
+        }
+    }
+    ai_energy = 15
+}

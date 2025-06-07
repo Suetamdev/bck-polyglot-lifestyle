@@ -1,0 +1,7 @@
+﻿l_french: 
+ trait_lifestyle_polyglot:0 "Polyglotte"
+ trait_lifestyle_polyglot_desc:0 "Ce personnage démontre un talent exceptionnel pour les langues, maîtrisant sans effort plusieurs langues avec fluidité et précision. Sa maîtrise linguistique lui ouvre les portes de cultures diverses, facilite la diplomatie et permet une communication efficace au-delà des frontières."
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip], un polyglotte d'une habileté remarquable, maîtrise sans effort une multitude de langues avec aisance et précision. Ses talents linguistiques transcendent les frontières, lui permettant de naviguer aisément parmi diverses cultures et de communiquer efficacement dans une myriade de langues."
+
+ trait_track_lifestyle_polyglot:0 "Compétence linguistique"
+ trait_track_lifestyle_polyglot_desc:0 "Ce personnage possède une maîtrise inégalée de la linguistique, maîtrisant une multitude de langues avec une facilité remarquable."

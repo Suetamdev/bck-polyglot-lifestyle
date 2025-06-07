@@ -1,0 +1,7 @@
+﻿l_korean: 
+ trait_lifestyle_polyglot:0 "다중 언어 구사자"
+ trait_lifestyle_polyglot_desc:0 "이 인물은 언어에 대한 놀라운 재능을 지니고 있으며, 여러 언어를 유창하고 정밀하게 익히는 능력을 갖추고 있습니다. 그의 언어적 역량은 다양한 문화와의 교류를 가능하게 하고, 외교를 촉진하며, 국경을 넘어 효과적인 의사소통을 가능하게 합니다."
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]은(는) 뛰어난 언어 능력을 가진 다중 언어 구사자로, 다양한 언어를 유창하고 정확하게 구사할 수 있습니다. 그의 언어적 재능은 국경을 초월하여 다양한 문화 속에서도 원활한 소통을 가능하게 합니다."
+
+ trait_track_lifestyle_polyglot:0 "언어 능력"
+ trait_track_lifestyle_polyglot_desc:0 "이 인물은 언어학에 있어 비할 데 없는 능력을 지니고 있으며, 여러 언어를 놀라운 용이함으로 마스터합니다."

@@ -1,0 +1,7 @@
+﻿l_german: 
+ trait_lifestyle_polyglot:0 "Polyglott"
+ trait_lifestyle_polyglot_desc:0 "Dieser Charakter zeigt ein außergewöhnliches Talent für Sprachen und beherrscht mühelos mehrere Sprachen mit fließender Präzision. Seine sprachlichen Fähigkeiten öffnen Türen zu verschiedenen Kulturen, erleichtern die Diplomatie und ermöglichen eine effektive Kommunikation über Grenzen hinweg."
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip], ein polyglotter Meister seines Fachs, beherrscht mühelos zahlreiche Sprachen mit fließender Präzision. Seine sprachlichen Talente überschreiten Grenzen und ermöglichen es ihm, sich nahtlos in verschiedene Kulturen einzufügen und effektiv in zahlreichen Sprachen zu kommunizieren."
+
+ trait_track_lifestyle_polyglot:0 "Sprachliche Kompetenz"
+ trait_track_lifestyle_polyglot_desc:0 "Dieser Charakter besitzt eine unvergleichliche Sprachkompetenz und beherrscht eine Vielzahl von Sprachen mit bemerkenswerter Leichtigkeit."

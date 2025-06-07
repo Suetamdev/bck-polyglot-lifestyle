@@ -1,0 +1,7 @@
+﻿l_polish: 
+ trait_lifestyle_polyglot:0 "Poliglota"
+ trait_lifestyle_polyglot_desc:0 "Postać ta wykazuje niezwykły talent do języków, opanowując je z łatwością i precyzją. Jej lingwistyczne zdolności otwierają drzwi do różnych kultur, ułatwiają dyplomację i pozwalają na skuteczną komunikację ponad granicami."
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip], poliglota o niezwykłych zdolnościach, biegle włada wieloma językami z łatwością i precyzją. Jego lingwistyczne talenty przekraczają granice, umożliwiając mu swobodne poruszanie się w różnych kulturach i skuteczną komunikację w wielu językach."
+
+ trait_track_lifestyle_polyglot:0 "Biegłość językowa"
+ trait_track_lifestyle_polyglot_desc:0 "Ta postać posiada niezrównaną biegłość w językach, opanowując wiele języków z niezwykłą łatwością."

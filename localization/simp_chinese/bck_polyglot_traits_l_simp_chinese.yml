@@ -1,0 +1,7 @@
+﻿l_simp_chinese: 
+ trait_lifestyle_polyglot:0 "多语言专家"
+ trait_lifestyle_polyglot_desc:0 "该角色展现出非凡的语言天赋，能够轻松流利地掌握多种语言。其卓越的语言能力使其能够接触多元文化，促进外交，并在跨国交流中发挥关键作用。"
+ trait_lifestyle_polyglot_character_desc:0 "[ROOT.GetCharacter.GetFirstNameNoTooltip]是一位杰出的多语言专家，能够轻松流利地掌握多种语言。他的语言才能跨越国界，使其能够无缝融入不同文化，并在各种语言环境中自如交流。"
+
+ trait_track_lifestyle_polyglot:0 "语言能力"
+ trait_track_lifestyle_polyglot_desc:0 "该角色具备无与伦比的语言学能力，能够轻松掌握多种语言。"
