@@ -6,6 +6,6 @@
 
 bck_polyglot_action = {
     effect = {
-        bck_polyglot_position_effect
+        bck_polyglot_position_effect = yes
     }
 }
