@@ -1,11 +1,11 @@
 ﻿learn_language_success = {
     on_actions = {
-        bck_polyglot_action = yes
+        bck_polyglot_action
     }
 }
 
 bck_polyglot_action = {
     effect = {
-        bck_polyglot_position_effect = yes
+        bck_polyglot_position_effect
     }
 }
