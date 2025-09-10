@@ -5,5 +5,5 @@ tags={
 	"Gameplay"
 }
 name="BCK - Polyglot Lifestyle"
-supported_version="1.16.*"
+supported_version="1.17.*"
 remote_file_id="3189120616"
