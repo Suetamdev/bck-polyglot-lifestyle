@@ -29,7 +29,7 @@
         }
         100 = {
             learning = 2
-            diplomacy = 1
+            diplomacy = 2
             owned_personal_scheme_success_chance_max_add = 8
             max_learn_language_schemes_add = 3
             opinion_of_different_culture = 15
